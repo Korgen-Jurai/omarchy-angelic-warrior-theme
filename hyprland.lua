@@ -1,5 +1,3 @@
--- Source: omarchy-angelic-warrior-theme/hyprland.conf
-
 local activeBorderColor = {
   colors = { "rgba(34b9d4ee)", "rgba(278bb5ee)", "rgba(e8c468ee)" },
   angle = 35,
